@@ -6,7 +6,7 @@ import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
 import About from "./pages/About";
 import Header from "./components/Header";
-import FooterCom from "./pages/Footer";
+import FooterCom from "./components/Footer";
 
 
 export default function App() {
